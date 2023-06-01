@@ -1,0 +1,19 @@
+{
+  "id": "cmpl-7Mak3gkL6Ltfnx6MUvFEUXvBRGp7o",
+  "object": "text_completion",
+  "created": 1685618807,
+  "model": "text-davinci-003",
+  "choices": [
+    {
+      "text": "\nAbel Maclead, Albina Glick, Alisha Slusarski, Alishia Sergi, Allene Iturbide, Ammie Corrio, Art Venere",
+      "index": 0,
+      "logprobs": null,
+      "finish_reason": "stop"
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 188,
+    "completion_tokens": 38,
+    "total_tokens": 226
+  }
+}
